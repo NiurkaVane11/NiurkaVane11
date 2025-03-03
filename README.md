@@ -3,7 +3,7 @@
     
 
 <h1 align="center">Hi 👋, I'm Niurka Yupanqui</h1>
-<h3 align="center">Student 🌟</h3>
+<h3 align="center">Software Student 🌟</h3>
 
 
 
@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **niurkayupanqui@gmail.com**.
 
-- ⚡ Fun fact: Food and Music🎵 are the reasons to live.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
