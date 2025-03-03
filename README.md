@@ -43,10 +43,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=niurkayupanqui&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niurkayupanqui&layout=compact&theme=tokyonight" alt="Top Languages" />
+
 </p>
 
 ---
