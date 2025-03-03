@@ -51,26 +51,5 @@
 
 ---
 
-<h3 align="left">🌟 Featured Projects:</h3>
-<p align="left">
-  <a href="https://github.com/niurkayupanqui/awesome-project-1">🔗 Awesome Project 1</a> - A brief description of your project.
-  <br>
-  <a href="https://github.com/niurkayupanqui/awesome-project-2">🔗 Awesome Project 2</a> - Another brief description of your project.
-</p>
 
----
-
-<h3 align="left">📝 Latest Blog Posts:</h3>
-<p align="left">
-  <a href="https://medium.com/@niurkayupanqui/my-journey-into-ai" target="_blank">🚀 My Journey into AI</a>
-  <br>
-  <a href="https://medium.com/@niurkayupanqui/web-development-tips" target="_blank">💡 Web Development Tips</a>
-</p>
-
----
-
-<h3 align="left">🏆 Achievements:</h3>
-<p align="left">
-  - 🥇 Winner of [Hackathon Name] 2023
-  - 📜 Certified in [Certification Name]
 </p>
