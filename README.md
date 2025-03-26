@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Niurka Yupanqui</h1>
-<h3 align="center">Software Student 🌟 | AI Enthusiast 🤖</h3>
+<h1 align="center">Hi</h1>
+<h3 align="center">Software Student 🌟 | AI </h3>
 
 - 🌱 I’m currently learning **Web Development, Artificial Intelligence, and various programming languages.**
 - 🎯 Passionate about solving complex problems and building innovative solutions.
