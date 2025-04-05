@@ -20,6 +20,34 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Java-f2cdcd?style=for-the-badge&logo=java&logoColor=red" alt="Java" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/-HTML5-f5c2e7?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML5" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/-CSS3-cba6f7?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3" />
+  </a>
+  <a href="https://www.latex-project.org" target="_blank">
+    <img src="https://img.shields.io/badge/-LaTeX-f5e0dc?style=for-the-badge&logo=latex&logoColor=008080" alt="LaTeX" />
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://img.shields.io/badge/-MATLAB-f2cdcd?style=for-the-badge&logo=mathworks&logoColor=orange" alt="MATLAB" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-C++-f5c2e7?style=for-the-badge&logo=c%2B%2B&logoColor=blue" alt="C++" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/-JavaScript-cba6f7?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  </a>
+</div>
+
+
+
+
+
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
