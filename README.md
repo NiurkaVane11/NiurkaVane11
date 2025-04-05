@@ -20,6 +20,13 @@
   <a href="https://github.com/niurkayupanqui" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
   </a>
+
+  <a href="mailto:vane321yupanqui@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-f5c2e7?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
+  </a>
+    <a href="https://medium.com/@nyupanquivalente" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-f2cdcd?style=for-the-badge&logo=medium&logoColor=000000" alt="Medium" />
+  </a>
 </div>
 
 
