@@ -1,9 +1,9 @@
 <h1 align="center">Hi</h1>
-<h3 align="center">Software Student 🌟 | AI </h3>
+<h3 align="center">Software Student | AI </h3>
 
 - 🌱 I’m currently learning **Web Development, Artificial Intelligence, and various programming languages.**
 - 🎯 Passionate about solving complex problems and building innovative solutions.
-- 📫 How to reach me: **niurkayupanqui@gmail.com**.
+- 📫 How to reach me: **vane321yupanqui@gmail.com**.
 
 ---
 
@@ -41,9 +41,9 @@
   </a>
 </p>
 
----
+
 
 
 </p>
 
----
+
