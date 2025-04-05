@@ -7,40 +7,18 @@
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/niurka-yupanqui-931a8122a" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/niurka_50?igsh=MXNhY2wzbGF3bnd3YQ%3D%3D&utm_source=qr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://github.com/niurkayupanqui" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
 
+
+<h3 align="center">🔗 Connect with me:</h3>
 <div align="center">
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Java-f2cdcd?style=for-the-badge&logo=java&logoColor=red" alt="Java" />
+  <a href="https://www.linkedin.com/in/niurka-yupanqui-931a8122a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-f2cdcd?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/-HTML5-f5c2e7?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML5" />
+  <a href="https://www.instagram.com/niurka_50?igsh=MXNhY2wzbGF3bnd3YQ%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-f5e0dc?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/-CSS3-cba6f7?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3" />
-  </a>
-  <a href="https://www.latex-project.org" target="_blank">
-    <img src="https://img.shields.io/badge/-LaTeX-f5e0dc?style=for-the-badge&logo=latex&logoColor=008080" alt="LaTeX" />
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://img.shields.io/badge/-MATLAB-f2cdcd?style=for-the-badge&logo=mathworks&logoColor=orange" alt="MATLAB" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-C++-f5c2e7?style=for-the-badge&logo=c%2B%2B&logoColor=blue" alt="C++" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/-JavaScript-cba6f7?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <a href="https://github.com/niurkayupanqui" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
   </a>
 </div>
 
