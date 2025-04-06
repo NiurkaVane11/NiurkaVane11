@@ -5,14 +5,6 @@
 - 🎯 Passionate about solving complex problems and building innovative solutions.
 - 📫 How to reach me: **vane321yupanqui@gmail.com**.
 
----
-
-
-
-
-
-
-
 
 ---
 
