@@ -9,25 +9,6 @@
 
 
 
-<h3 align="center">🔗 Connect with me:</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/niurka-yupanqui-931a8122a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-f2cdcd?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/niurka_50?igsh=MXNhY2wzbGF3bnd3YQ%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-f5e0dc?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-  </a>
-  <a href="https://github.com/niurkayupanqui" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
-  </a>
-
-  <a href="mailto:vane321yupanqui@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-f5c2e7?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
-  </a>
-    <a href="https://medium.com/@nyupanquivalente" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-f2cdcd?style=for-the-badge&logo=medium&logoColor=000000" alt="Medium" />
-  </a>
-</div>
 
 
 
@@ -58,6 +39,37 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
+
+
+
+
+
+
+
+
+----------
+
+
+  <h3 align="center">🔗 Connect with me:</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/niurka-yupanqui-931a8122a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-f2cdcd?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/niurka_50?igsh=MXNhY2wzbGF3bnd3YQ%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-f5e0dc?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
+  <a href="https://github.com/niurkayupanqui" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
+  </a>
+
+  <a href="mailto:vane321yupanqui@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-f5c2e7?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail" />
+  </a>
+    <a href="https://medium.com/@nyupanquivalente" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-f2cdcd?style=for-the-badge&logo=medium&logoColor=000000" alt="Medium" />
+  </a>
+</div>
+
 </p>
 
 
