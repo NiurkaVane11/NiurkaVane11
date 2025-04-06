@@ -1,4 +1,4 @@
-<h1 align="center">Hi</h1>
+<h1 align="center">Hi, I am Niurka</h1>
 <h3 align="center">Software Student | AI </h3>
 
 - 🌱 I’m currently learning **Web Development, Artificial Intelligence, and various programming languages.**
