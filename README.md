@@ -55,15 +55,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niurkayupanqui&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Niurka's stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=niurkayupanqui&theme=radical&hide_border=true" alt="Niurka's streak"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niurkayupanqui&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
 <h3 align="center">🌐 Let's Connect</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/niurka-yupanqui-931a8122a" target="_blank">
@@ -81,10 +72,6 @@
   <a href="https://www.instagram.com/niurka_50?igsh=MXNhY2wzbGF3bnd3YQ%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niurkayupanqui&color=ff69b4&label=PROFILE+VIEWS" alt="Profile views"/> 
 </p>
 
 
