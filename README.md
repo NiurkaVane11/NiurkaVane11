@@ -1,19 +1,13 @@
 <h1 align="center">Hi, I am Niurka 👋</h1>
-<h3 align="center">Software Student | AI Enthusiast</h3>
+<h3 align="center">Software Student | AI </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em>Passionate about creating intelligent solutions</em>
-</p>
 
 ---
 
 ### 🌟 About Me
-- 🌱 Currently mastering **Frontend Development, AI/ML, and Advanced Algorithms**
-- 🚀 Building **innovative projects** at the intersection of software and AI
+- 🌱 Currently mastering **Frontend Development, AI/ML**
 - 📝 Regular writer on [Medium](https://medium.com/@nyupanquivalente)
-- 🎯 2024 Goals: **Contribute to open-source AI projects**
-- ⚡ Fun fact: **I love reverse-engineering how things work**
+
 
 ---
 
@@ -93,9 +87,6 @@
   <img src="https://komarev.com/ghpvc/?username=niurkayupanqui&color=ff69b4&label=PROFILE+VIEWS" alt="Profile views"/> 
 </p>
 
----
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30"> 
-  <em><b>Always open to collaborate on exciting projects!</b></em>
-</p>
+
+
