@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Niurka</h1>
 <h3 align="center">Software Student | AI </h3>
 
-- 🌱 I’m currently learning **Web Development, Artificial Intelligence, and various programming languages.**
+- 🌱 I’m currently learning **Frontend, Artificial Intelligence, and various programming languages.**
 - 🎯 Passionate about solving complex problems and building innovative solutions.
 - 📫 How to reach me: **vane321yupanqui@gmail.com**.
 
