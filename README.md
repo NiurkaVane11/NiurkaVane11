@@ -6,7 +6,7 @@
 - 📫 How to reach me: **vane321yupanqui@gmail.com**.
 
 
----
+--------
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
@@ -31,22 +31,19 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
-
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-
-
-
-### 🛠️ Languages and Tools:
-
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)](https://www.w3.org/html/)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)](https://www.w3schools.com/css/)
-[![LaTeX](https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg)](https://www.latex-project.org)
-[![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)](https://www.mathworks.com/products/matlab.html)
-[![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://isocpp.org/)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  </a>
+  <a href="https://daringfireball.net/projects/markdown/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="40" height="40" />
+  </a>
+</p>
 
 
 
