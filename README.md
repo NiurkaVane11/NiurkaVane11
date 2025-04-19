@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I am Niurka </h1>
-<h3 align="center">Software Student | AI </h3>
----
+<h3> align="center">Software Student | AI </h3>
 
+---
 ### 🌟 About Me
 - 🌱 Currently mastering **Frontend Development, AI/ML**
 - 📝 Regular writer on [Medium](https://medium.com/@nyupanquivalente)
-
-
 ---
 
 <h3 align="left">🛠️ Tech Stack</h3>
