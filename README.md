@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Niurka </h1>
-<h2 align="center">Software Student | AI </h2>
+<h1 align="center">Software Student | AI </h1>
 
 
 ### 🌟 About Me
