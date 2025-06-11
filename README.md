@@ -86,26 +86,9 @@
 
 ---
 
-## 🎯 Current Learning Path
 
-```
-🔄 Currently Learning:
-├── 🎨 Frontend Development (React, Advanced CSS)
-├── 🤖 Machine Learning (TensorFlow, PyTorch)
-├── 📊 Data Science (Pandas, NumPy, Matplotlib)
-└── 🚀 AI Applications & Neural Networks
-```
 
----
 
-## 🏆 Achievements & Goals
-
-- 📚 **Software Engineering Student** - Building strong foundations
-- ✍️ **Technical Writer** - Sharing knowledge through Medium articles
-- 🎯 **2024 Goals**: Master Frontend Development & Deploy first AI project
-- 🌟 **Future Vision**: Contribute to open-source AI projects
-
----
 
 <h3 align="center">🌐 Let's Connect & Collaborate</h3>
 <p align="center">
