@@ -1,71 +1,71 @@
-<h1 align="center">Hi, I am Niurka </h1>
-<h1 align="center">Software Student | AI </h1>
+<h1 align="center">Hi, I am Niurka 👋</h1>
+<h1 align="center">Software Student | AI Enthusiast 🤖</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer+in+Progress;AI%2FML+Student;Always+Learning+New+Things!" alt="Typing SVG" />
+</div>
+
+---
 
 ### 🌟 About Me
-- 🌱 Currently mastering **Frontend Development, AI/ML**
-- 📝 Regular writer on [Medium](https://medium.com/@nyupanquivalente)
+- 🎓 **Software Engineering Student** focused on building innovative solutions
+- 🌱 Currently mastering **Frontend Development & AI/ML Technologies**
+- ✍️ Regular writer sharing insights on [Medium](https://medium.com/@nyupanquivalente)
+- 🚀 Passionate about **Artificial Intelligence** and its applications
+- 💡 Always eager to learn and explore new technologies
+
 ---
 
 # 🛠️ Tech Stack
 
 <div align="center">
 
-## 💻 Lenguajes de Programación
+## 💻 Programming Languages
 <p>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
   </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
   </a>
 </p>
 
-## 🌐 Tecnologías Web
+## 🌐 Web Technologies
 <p>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
   </a>
 </p>
 
-## 🗄️ Bases de Datos
-<p>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  </a>
-</p>
-
-## 🛠️ Herramientas y Frameworks
+## 🔧 Tools & Technologies
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="50" height="50"/>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="60" height="60"/>
+  </a>
+</p>
+
+## 📝 Documentation & Writing
+<p>
+  <a href="https://www.latex-project.org" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="60" height="60"/>
+  </a>
+  <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="60" height="60"/>
   </a>
 </p>
 
@@ -73,45 +73,41 @@
 
 ---
 
-## 📊 Estadísticas de Lenguajes
+## 📈 GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niurkayupanqui&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niurkayupanqui&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
----
-
-## 🔥 Streak de Commits
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=radical)
-  
-  <!-- Web -->
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  </a>
-  <a href="https://www.latex-project.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"/>
-  </a>
-  <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niurkayupanqui&theme=radical" alt="GitHub Streak"/>
+</div>
 
 ---
 
-<h3 align="center">🌐 Let's Connect</h3>
+## 🎯 Current Learning Path
+
+```
+🔄 Currently Learning:
+├── 🎨 Frontend Development (React, Advanced CSS)
+├── 🤖 Machine Learning (TensorFlow, PyTorch)
+├── 📊 Data Science (Pandas, NumPy, Matplotlib)
+└── 🚀 AI Applications & Neural Networks
+```
+
+---
+
+## 🏆 Achievements & Goals
+
+- 📚 **Software Engineering Student** - Building strong foundations
+- ✍️ **Technical Writer** - Sharing knowledge through Medium articles
+- 🎯 **2024 Goals**: Master Frontend Development & Deploy first AI project
+- 🌟 **Future Vision**: Contribute to open-source AI projects
+
+---
+
+<h3 align="center">🌐 Let's Connect & Collaborate</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/niurka-yupanqui-931a8122a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -130,6 +126,12 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=niurkayupanqui&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
 
+---
 
-
+<div align="center">
+  <i>💡 "The best way to predict the future is to create it" - Peter Drucker</i>
+</div>
