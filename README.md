@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Niurka 👋</h1>
+<h1 align="center">Hi, I am Niurka Vanesa 👋</h1>
 <h1 align="center">Software Student | AI Enthusiast 🤖</h1>
 
 <div align="center">
