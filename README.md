@@ -12,7 +12,7 @@
 - 🌱 Currently mastering **Frontend Development & AI/ML Technologies**
 - ✍️ Regular writer sharing insights on [Medium](https://medium.com/@nyupanquivalente)
 - 🚀 Passionate about **Artificial Intelligence** and its applications
-- 💡 Always eager to learn and explore new technologies
+
 
 ---
 
