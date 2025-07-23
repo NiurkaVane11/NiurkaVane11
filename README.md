@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm Niurka Vanesa ✨</h1>
+<h1 align="center">✨ Hi, I'm Niurka  ✨</h1>
 <h3 align="center">👩‍💻 Software Student | Passionate about AI & Frontend 🤖</h3>
 
 <div align="center">
