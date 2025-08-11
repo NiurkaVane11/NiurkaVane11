@@ -1,19 +1,5 @@
-<h1 align="center">✨ Hi, I'm Niurka  ✨</h1>
-<h3 align="center">👩‍💻 Software Student | Frontend 🤖</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer" alt="Typing SVG" />
-</div>
-
----
-
-## 🌟 About Me
-
-- 🎓 I'm a **Software Engineering Student** passionate about building innovative and impactful solutions.
-- 🌱 Currently focused on **Frontend Development** and exploring the world of **AI/ML**.
-- ✍️ I write tech content and insights on [Medium](https://medium.com/@nyupanquivalente).
-- 🚀 I believe in using technology to **create a better future**.
-- 🌎 Based in Ecuador, dreaming globally.
+<h1 align="center">Hi, I'm Niurka  </h1>
+<h3 align="center">👩‍💻  Frontend </h3>
 
 ---
 
