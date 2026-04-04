@@ -1,7 +1,7 @@
 
 # Hi, I'm Vanesa 👋
 
-Systems & Software Engineering student at **Escuela Politécnica Nacional** (Quito, Ecuador).
+Software Engineering student 
 
 ## 🛠️ Tech Stack
 
