@@ -5,10 +5,7 @@
 
 ---
 
-Passionate about computer graphics, cloud computing, and AI/ML.  
-Building my portfolio through real projects and international programs.
 
----
 
 ## 🛠 Tech Stack
 
@@ -24,28 +21,7 @@ Building my portfolio through real projects and international programs.
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Galaxy Shader](#) | GPU-based galaxy simulation with GLSL | C++, OpenGL, GLSL |
-| [Solar System](#) | Real-time solar system with orbital mechanics | C++, OpenGL |
-| [AeroMaravillas](#) | Airline travel web app (team project) | HTML, CSS, JS, Git |
-| [Portfolio](https://prueba01-rvmw.vercel.app/) | Personal portfolio site | HTML, CSS, JS |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🌐 Connect
 
