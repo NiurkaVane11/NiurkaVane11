@@ -32,5 +32,4 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&style=flat-square&color=5586A4" alt="Profile views" />
 </p>
