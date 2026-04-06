@@ -1,7 +1,7 @@
-👋 Hi, I'm Niurka Yupanqui
+Hi, I'm Niurka Yupanqui
 ===========================
 
-**Software Engineering student · EPN, Quito**
+**Software Engineering student ·**
 
 ---
 
