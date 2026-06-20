@@ -26,7 +26,7 @@ Hi, I'm Niurka Yupanqui
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niurka-yupanqui-931a8122a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://prueba01-rvmw.vercel.app/)
+[![Portfolio](https://delightful-flower-0ca039a0f.7.azurestaticapps.net/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TU_USERNAME)
 
 ---
