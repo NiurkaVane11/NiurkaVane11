@@ -2,7 +2,7 @@
 
 ✦ ˚ · ✧ · ˚ ✦
 
-# 𝒩𝒾𝓊𝓇𝓀𝒶 𝒴𝓊𝓅𝒶𝓃𝓆𝓊𝒾
+# 𝑁𝑖𝑢𝑟𝑘𝑎 𝑌𝑢𝑝𝑎𝑛𝑞𝑢𝑖
 
 `software engineering` · `full-stack` · `graphics & systems`
 
