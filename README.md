@@ -21,7 +21,7 @@
 
 ## ✧ about
 
-I am from Ecuador, studying software engineering, and a lot of what I build comes from wanting to understand how systems work at every layer — from shaders to the web.
+I am from Ecuador, studying software engineering, and a lot of what I build comes from wanting to understand how systems work at every layer from shaders to the web.
 
 Right now I am working across full-stack development, graphics programming with OpenGL/GLSL, and cloud-connected applications. I practice engineering with clear structure and an eye for what's actually happening under the hood.
 
