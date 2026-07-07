@@ -1,5 +1,8 @@
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NiurkaVane11&show_icons=true&hide_border=true&title_color=FF6FA8&icon_color=FF9EC4&text_color=555555&bg_color=FFF5F9" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=NiurkaVane11&hide_border=true&background=FFF5F9&stroke=FFD6E8&ring=FF9EC4&fire=FF6FA8&currStreakLabel=FF6FA8" width="48%"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiurkaVane11&layout=compact&hide_border=true&bg_color=FFF5F9&title_color=FF6FA8&text_color=555555" width="45%"/>
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:FF9EC4&height=220&section=header&text=Niurka%20Yupanqui&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20Systems%20Engineer%20%7C%20ML%20%2F%20Full-Stack&descAlignY=58&descSize=18)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8FC0&center=true&vCenter=true&width=560&lines=Software+%26+Systems+Engineering+%40+EPN;Machine+Learning+Engineer+in+the+making;Building+full-stack+%2B+ML+products;Open+source+%7C+research+%7C+cloud" alt="Typing SVG" /></a>
