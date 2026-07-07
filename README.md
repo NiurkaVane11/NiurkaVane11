@@ -27,7 +27,7 @@
 
 ## ✧ about
 
-I'm a Software and Systems Engineering student at **Escuela Politécnica Nacional (EPN)**, Quito, Ecuador — expected graduation **May 2028**. I build across the full stack and I'm actively growing an **ML engineering** profile: models, deployment, and the infrastructure that gets them into production.
+I'm Niurka Yupanqui a Software Engineering student at **Escuela Politécnica Nacional (EPN)**, Quito, Ecuador. I build across the full stack and I'm actively growing an **ML engineering** profile: models, deployment, and the infrastructure that gets them into production.
 
 I like understanding systems at every layer, from a shader to a training pipeline to the API that finally serves it.
 
@@ -96,7 +96,6 @@ I like understanding systems at every layer, from a shader to a training pipelin
 
 </div>
 
----
 
 
 
