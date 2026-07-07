@@ -80,7 +80,6 @@ I like understanding systems at every layer, from a shader to a training pipelin
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/NiurkaVane11/NiurkaVane11/output/pink-snake.svg" width="95%"/>
 </div>
 
 
@@ -99,9 +98,6 @@ I like understanding systems at every layer, from a shader to a training pipelin
 
 ---
 
-<div align="center">
-
-*building with intention, learning in public*
 
 
-</div>
+
