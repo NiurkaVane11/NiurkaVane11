@@ -69,26 +69,9 @@ I like understanding systems at every layer, from a shader to a training pipelin
 
 ---
 
-## ✧ github analytics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NiurkaVane11&show_icons=true&theme=juicyfresh&hide_border=true&title_color=FF6FA8&icon_color=FF9EC4&text_color=555555&bg_color=FFF5F9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiurkaVane11&theme=juicyfresh&hide_border=true&background=FFF5F9&stroke=FFD6E8&ring=FF9EC4&fire=FF6FA8&currStreakLabel=FF6FA8" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiurkaVane11&layout=compact&theme=juicyfresh&hide_border=true&bg_color=FFF5F9&title_color=FF6FA8&text_color=555555" width="45%"/>
-
-</div>
-
----
-
-## ✧ trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NiurkaVane11&theme=juicyfresh&no-frame=true&column=6&margin-w=10&margin-h=10" />
-</div>
-
----
 
 ## ✧ contribution activity
 
