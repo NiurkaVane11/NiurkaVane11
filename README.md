@@ -1,13 +1,9 @@
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NiurkaVane11&show_icons=true&hide_border=true&title_color=FF6FA8&icon_color=FF9EC4&text_color=555555&bg_color=FFF5F9" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=NiurkaVane11&hide_border=true&background=FFF5F9&stroke=FFD6E8&ring=FF9EC4&fire=FF6FA8&currStreakLabel=FF6FA8" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiurkaVane11&layout=compact&hide_border=true&bg_color=FFF5F9&title_color=FF6FA8&text_color=555555" width="45%"/>
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,100:FF9EC4&height=220&section=header&text=Niurka%20Yupanqui&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20Systems%20Engineer%20%7C%20ML%20%2F%20Full-Stack&descAlignY=58&descSize=18)
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8FC0&center=true&vCenter=true&width=560&lines=Software+%26+Systems+Engineering+%40+EPN;Machine+Learning+Engineer+in+the+making;Building+full-stack+%2B+ML+products;Open+source+%7C+research+%7C+cloud" alt="Typing SVG" /></a>
 
-![EPN](https://img.shields.io/badge/EPN-Escuela_Politécnica_Nacional-FFC0DA?style=for-the-badge&logoColor=white)
 ![Location](https://img.shields.io/badge/Quito-Ecuador-FFB6D5?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <a href="https://delightful-flower-0ca039a0f7.azurestaticapps.net">
@@ -69,109 +65,7 @@ I like understanding systems at every layer, from a shader to a training pipelin
 ![Git](https://img.shields.io/badge/Git-FFA8CB?style=flat-square&logo=git&logoColor=333)
 ![VS Code](https://img.shields.io/badge/VS_Code-FF9EC4?style=flat-square&logo=visualstudiocode&logoColor=333)
 
----
 
-## ✧ ml / ai focus
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Classical ML (classification) | Applied | LightGBM churn model, AUC-ROC 0.6942, deployed via FastAPI |
-| Model deployment | Applied | FastAPI services on Azure App Service |
-| Data analysis & preprocessing | Applied | pandas, correlation analysis, feature engineering |
-| Fraud / anomaly detection | Learning | FastAPI fraud detection service on Azure |
-| Graph Neural Networks | Exploring | Targeting research collaboration on GNN-based anomaly detection |
-| MLOps | In progress | Preparing for Microsoft Certified: ML Operations Engineer Associate |
-
----
-
-## ✧ featured projects
-
-<details>
-<summary><b>student-dropout-prediction</b></summary>
-<br>
-
-Predicts higher-education student dropout risk using the UCI/Kaggle "Higher Education Predictors of Student Retention" dataset.
-
-| | |
-|---|---|
-| **Stack** | Python, pandas, scikit-learn, Jupyter |
-| **Focus** | EDA, correlation analysis, classification modeling |
-| **Repository** | [github.com/NiurkaVane11/student-dropout-prediction](https://github.com/NiurkaVane11) |
-
-First portfolio project in ML engineering, built cell by cell with an emphasis on understanding every preprocessing and modeling decision rather than treating it as a black box.
-
-</details>
-
-<details>
-<summary><b>Churn Prediction — GCI World 2026 (Matsuo-Iwasawa Lab, UTokyo)</b></summary>
-<br>
-
-| | |
-|---|---|
-| **Stack** | Python, LightGBM, FastAPI, Azure App Service |
-| **Performance** | AUC-ROC 0.6942 |
-| **Deployment** | Live FastAPI service on Azure |
-| **Program** | Global Careers in Innovation (GCI) World 2026 |
-
-Built and deployed a customer churn prediction model as part of a research collaboration with the Matsuo-Iwasawa Lab at the University of Tokyo.
-
-</details>
-
-<details>
-<summary><b>Fraud Detection API</b></summary>
-<br>
-
-| | |
-|---|---|
-| **Stack** | Python, FastAPI, Azure App Service |
-| **Focus** | Real-time fraud scoring service |
-
-A FastAPI-based fraud detection service, deployed to Azure App Service.
-
-</details>
-
-<details>
-<summary><b>Portfolio Website</b></summary>
-<br>
-
-| | |
-|---|---|
-| **Stack** | Next.js, GSAP, React Three Fiber, Lenis |
-| **Deployment** | Azure Static Web Apps |
-| **Link** | [delightful-flower-0ca039a0f7.azurestaticapps.net](https://delightful-flower-0ca039a0f7.azurestaticapps.net) |
-
-Personal portfolio with 3D interactive elements and scroll-based animation.
-
-</details>
-
----
-
-## ✧ certifications & programs
-
-**Microsoft**
-![AI-300](https://img.shields.io/badge/AI--300-ML_Ops_Engineer_Associate-FFC7DE?style=flat-square&logo=microsoft&logoColor=333)
-![MLSA](https://img.shields.io/badge/Microsoft_Learn_Student_Ambassador-FFB6D5?style=flat-square&logo=microsoft&logoColor=333)
-
-**AWS**
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FFD6E8?style=flat-square&logo=amazonaws&logoColor=333)
-
-**Other**
-![CS50x](https://img.shields.io/badge/CS50x-Harvard-FFA8CB?style=flat-square&logo=harvard&logoColor=333)
-![Code in Place](https://img.shields.io/badge/Code_in_Place-Stanford-FF9EC4?style=flat-square&logo=stanford&logoColor=333)
-![IBM DevOps](https://img.shields.io/badge/IBM_DevOps-FFC7DE?style=flat-square&logo=ibm&logoColor=333)
-![Elements of AI](https://img.shields.io/badge/Elements_of_AI-FFB6D5?style=flat-square&logoColor=333)
-
----
-
-## ✧ programs & community
-
-| Recognition | Details |
-|---|---|
-| GCI World 2026 | Matsuo-Iwasawa Lab, University of Tokyo — churn prediction, AUC-ROC 0.6942 |
-| Microsoft Learn Student Ambassador | Registered member |
-| Latinas in Tech | Digital Ambassador, LiT Summit 2026 |
-| Equitech Futures | Accepted, AI for Science Summer School |
-| AWS re:Invent 2026 | All Builders Welcome Grant (application in progress) |
 
 ---
 
@@ -179,10 +73,10 @@ Personal portfolio with 3D interactive elements and scroll-based animation.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NiurkaVane11&show_icons=true&hide_border=true&title_color=FF6FA8&icon_color=FF9EC4&text_color=555555&bg_color=FFF5F9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiurkaVane11&hide_border=true&background=FFF5F9&stroke=FFD6E8&ring=FF9EC4&fire=FF6FA8&currStreakLabel=FF6FA8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NiurkaVane11&show_icons=true&theme=juicyfresh&hide_border=true&title_color=FF6FA8&icon_color=FF9EC4&text_color=555555&bg_color=FFF5F9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiurkaVane11&theme=juicyfresh&hide_border=true&background=FFF5F9&stroke=FFD6E8&ring=FF9EC4&fire=FF6FA8&currStreakLabel=FF6FA8" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiurkaVane11&layout=compact&hide_border=true&bg_color=FFF5F9&title_color=FF6FA8&text_color=555555" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiurkaVane11&layout=compact&theme=juicyfresh&hide_border=true&bg_color=FFF5F9&title_color=FF6FA8&text_color=555555" width="45%"/>
 
 </div>
 
@@ -191,7 +85,7 @@ Personal portfolio with 3D interactive elements and scroll-based animation.
 ## ✧ trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NiurkaVane11&theme=flat&no-frame=true&column=6&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=NiurkaVane11&theme=juicyfresh&no-frame=true&column=6&margin-w=10&margin-h=10" />
 </div>
 
 ---
@@ -206,30 +100,6 @@ Personal portfolio with 3D interactive elements and scroll-based animation.
 <img src="https://raw.githubusercontent.com/NiurkaVane11/NiurkaVane11/output/pink-snake.svg" width="95%"/>
 </div>
 
----
-
-## ✧ current focus
-
-```yaml
-learning:
-  - Graph Neural Networks
-  - MLOps best practices (AI-300 track)
-  - Compilers: intermediate code optimization, FIRST/FOLLOW sets
-
-building:
-  - student-dropout-prediction (ML portfolio project)
-  - Personal portfolio (Next.js + React Three Fiber)
-
-exploring:
-  - Research pathways: Yale CS Summer Research Internship (GNNs)
-  - Google Summer of Code 2027
-  - MLH Fellowship
-
-open_to:
-  - ML engineering internships
-  - Undergraduate research collaborations
-  - Open source contribution
-```
 
 ---
 
@@ -250,6 +120,5 @@ open_to:
 
 *building with intention, learning in public*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF9EC4,100:FFD6E8&height=120&section=footer)
 
 </div>
