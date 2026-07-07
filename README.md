@@ -84,7 +84,7 @@ I like understanding systems at every layer, from a shader to a training pipelin
 
 
 
-
+---
 ## ✧ connect
 
 <div align="center">
