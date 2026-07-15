@@ -67,20 +67,6 @@ I like understanding systems at every layer, from a shader to a training pipelin
 
 
 
----
-
-
-
-
-
-## ✧ contribution activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiurkaVane11&theme=react-dark&color=FF6FA8&bg_color=FFF5F9&line=FF9EC4&point=FF6FA8&hide_border=true" width="95%"/>
-</div>
-
-<div align="center">
-</div>
 
 
 
