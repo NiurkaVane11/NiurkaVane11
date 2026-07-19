@@ -1,11 +1,8 @@
 <div align="center">
 
-
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8FC0&center=true&vCenter=true&width=560&lines=Software+%26+Systems+Engineering+%40+EPN;Machine+Learning+Engineer+in+the+making;Building+full-stack+%2B+ML+products;Open+source+%7C+research+%7C+cloud" alt="Typing SVG" /></a>
 
 ![Location](https://img.shields.io/badge/Quito-Ecuador-FFB6D5?style=for-the-badge&logo=googlemaps&logoColor=white)
-
 <a href="https://delightful-flower-0ca039a0f7.azurestaticapps.net">
 <img src="https://img.shields.io/badge/▲_PORTFOLIO-FF9EC4?style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/niurka-yupanqui-931a8122a">
@@ -65,22 +62,15 @@ I like understanding systems at every layer, from a shader to a training pipelin
 ![Git](https://img.shields.io/badge/Git-FFA8CB?style=flat-square&logo=git&logoColor=333)
 ![VS Code](https://img.shields.io/badge/VS_Code-FF9EC4?style=flat-square&logo=visualstudiocode&logoColor=333)
 
-
-
-
-
-
 ---
+
 ## ✧ connect
 
 <div align="center">
+
 <a href="mailto:vane321yupanqui@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB6D5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/niurka-yupanqui-931a8122a"><img src="https://img.shields.io/badge/LinkedIn-FFC7DE?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/NiurkaVane11"><img src="https://img.shields.io/badge/GitHub-FFD6E8?style=for-the-badge&logo=github&logoColor=black"/></a>
 <a href="https://delightful-flower-0ca039a0f7.azurestaticapps.net"><img src="https://img.shields.io/badge/Portfolio-FF9EC4?style=for-the-badge&logoColor=white"/></a>
+
 </div>
-
-
-
-
-
