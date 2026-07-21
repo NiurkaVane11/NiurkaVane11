@@ -71,6 +71,6 @@ I like understanding systems at every layer, from a shader to a training pipelin
 <a href="mailto:vane321yupanqui@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB6D5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/niurka-yupanqui-931a8122a"><img src="https://img.shields.io/badge/LinkedIn-FFC7DE?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/NiurkaVane11"><img src="https://img.shields.io/badge/GitHub-FFD6E8?style=for-the-badge&logo=github&logoColor=black"/></a>
-<a href="https://delightful-flower-0ca039a0f7.azurestaticapps.net"><img src="https://img.shields.io/badge/Portfolio-FF9EC4?style=for-the-badge&logoColor=white"/></a>
+<a href="https://delightful-flower-0ca039a0f.7.azurestaticapps.net"><img src="https://img.shields.io/badge/Portfolio-FF9EC4?style=for-the-badge&logoColor=white"/></a>
 
 </div>
