@@ -37,8 +37,6 @@ My main project takes a model from notebook to a secured, CI/CD-tested API — t
 **[prediccion-del-abandono-estudiantil](https://github.com/NiurkaVane11/prediccion-del-abandono-estudiantil)**
 Student dropout prediction — end-to-end ML pipeline built for the ADA Lab application. Keras neural network (AUC-ROC 0.9443 after leakage correction), served via FastAPI, containerized with Docker, tested with pytest (10 tests), CI/CD via GitHub Actions. Currently hardening security: API key auth, Pydantic validation, rate limiting.
 
-**[iris-ml-docker-k8s](https://github.com/NiurkaVane11/iris-ml-docker-k8s)**
-Sandbox MLOps pipeline — FastAPI + MLflow for experiment tracking, Docker for packaging, Kubernetes for orchestration. Built to practice the deployment side of the ML lifecycle.
 
 ---
 
