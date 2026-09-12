@@ -1,3 +1,27 @@
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8FC0&center=true&vCenter=true&width=560&lines=Software+%26+Systems+Engineering+%40+EPN;Machine+Learning+Engineer+in+the+making;Building+full-stack+%2B+ML+products;Open+source+%7C+research+%7C+cloud" alt="Typing SVG" /></a>
+
+![Location](https://img.shields.io/badge/Quito-Ecuador-FFB6D5?style=for-the-badge&logo=googlemaps&logoColor=white)
+<a href="https://delightful-flower-0ca039a0f7.azurestaticapps.net">
+<img src="https://img.shields.io/badge/▲_PORTFOLIO-FF9EC4?style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/niurka-yupanqui-931a8122a">
+<img src="https://img.shields.io/badge/LINKEDIN-FFB6D5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vane321yupanqui@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-FFC7DE?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/NiurkaVane11">
+<img src="https://img.shields.io/badge/GITHUB-FFD6E8?style=for-the-badge&logo=github&logoColor=black"/></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NiurkaVane11&color=ff9ec4&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/NiurkaVane11?style=for-the-badge&color=ffb6d5&labelColor=fff0f6)
+![Stars](https://img.shields.io/github/stars/NiurkaVane11?style=for-the-badge&color=ff8fc0&labelColor=fff0f6)
+
+✦ ˚ · ✧ · ˚ ✦
+
+</div>
+
+---
+
 ## ✧ about
 
 I'm Niurka Vanesa Yupanqui, a Software & Systems Engineering student at **EPN**, Quito, Ecuador, building toward an **MLOps** career: training models, containerizing them, and shipping the infrastructure that keeps them running in production.
@@ -23,7 +47,7 @@ Sandbox MLOps pipeline — FastAPI + MLflow for experiment tracking, Docker for 
 **MLOps / Deployment**
 ![Docker](https://img.shields.io/badge/Docker-FFD6E8?style=flat-square&logo=docker&logoColor=333)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-FFC7DE?style=flat-square&logo=kubernetes&logoColor=333)
-![MLflow](https://img.shields.io/badge/MLflow-FFB6D5?style=flat-square&logo=mlflow&logoColor=333)
+![MLflow](https://img.shields.io/badge/MLflow-FFB6D5?style=flat-square&logoColor=333)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FFA8CB?style=flat-square&logo=githubactions&logoColor=333)
 ![FastAPI](https://img.shields.io/badge/FastAPI-FF9EC4?style=flat-square&logo=fastapi&logoColor=333)
 
@@ -54,3 +78,8 @@ Sandbox MLOps pipeline — FastAPI + MLflow for experiment tracking, Docker for 
 ![OpenGL](https://img.shields.io/badge/OpenGL%2FGLSL-FF9EC4?style=flat-square&logo=opengl&logoColor=333)
 
 ---
+
+</div>
+
+
+
